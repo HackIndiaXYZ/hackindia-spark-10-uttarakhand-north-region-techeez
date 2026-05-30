@@ -12,7 +12,7 @@
 
 *An advanced AI + IoT + Robotics safety infrastructure platform designed for campuses and industries.*
 
-[Demo Video](#) • [Architecture](#architecture) • [Documentation](./docs/system-design.md)
+[Demo Video](https://drive.google.com/file/d/1I-GsaEnuhVUpobU__CI98upZ1kNSIQ63/view?usp=sharing) • [Architecture](#architecture) • [Documentation](https://drive.google.com/file/d/1O8EUNkS87W9LC7qszqtTBXuaTxcXJNmz/view?usp=sharing)
 
 </div>
 
